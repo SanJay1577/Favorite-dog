@@ -1,0 +1,54 @@
+*{
+  margin-top: 5px;
+  padding:0px;
+
+}
+.container{
+    display: grid;
+    /* grid-template-columns: 1fr; */
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    gap:5px;
+    background: url("backpic.jpg");
+    background-size:cover;
+    color:cornsilk;
+    
+}
+button{
+    margin :10px;
+    padding:10px;
+    width:100px;
+    border:none;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px 0px rgba(50, 50, 50, 0.1);
+    background-color: bisque;
+
+}
+
+img{
+    width:300px;
+    height:300px;
+}
+#favorites{
+background : Roboto;
+display:grid;
+grid-template-columns: repeat(auto-fit, minmax(15rem,1fr));
+justify-items : center;
+gap :2rem;
+background: url("backpic.jpg");
+background-size:cover;
+}
+.card{
+    background: white;
+    max-width: 15rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    box-shadow: 3px 3px 10px 0px rgba(50, 50, 50, 0.1);
+}
+button:hover{
+    cursor:pointer;
+}
+.delete-btn{
+    margin-left:60px;
+}

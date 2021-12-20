@@ -1,0 +1,24 @@
+{
+  "dogs": [
+    {
+      "id": 2,
+      "image": "https://www.thesprucepets.com/thmb/wpN_ZunUaRQAc_WRdAQRxeTbyoc=/4231x2820/filters:fill(auto,1)/adorable-white-pomeranian-puppy-spitz-921029690-5c8be25d46e0fb000172effe.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://thehappypuppysite.com/wp-content/uploads/2019/09/Fluffy-Dogs-HP-long.jpg"
+    },
+    {
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=1200:*",
+      "id": 4
+    },
+    {
+      "image": "https://images.dog.ceo/breeds/collie-border/n02106166_1842.jpg",
+      "id": 5
+    },
+    {
+      "image": "https://images.dog.ceo/breeds/terrier-silky/n02097658_9978.jpg",
+      "id": 6
+    }
+  ]
+}
